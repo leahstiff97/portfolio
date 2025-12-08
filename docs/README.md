@@ -2,7 +2,7 @@
 
 This document provides an overview on how to navigate my website, report website issues, liability disclaimers, and credits.
 
-- **`disclaimer` - AI Usage**
+## Disclaimer: AI Usage\*\*
 
 This markdown document was generated with the help of AI and audited by myself, Leah Stiff. The code contained within the .html, .css, and .js is my own, although I heavily relied on the use of the websites referenced below.
 
